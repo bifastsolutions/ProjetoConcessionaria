@@ -33,7 +33,7 @@ tratar e visualizar esses dados de forma inteligente era um grande problema para
 
 # Resumo Arquitetura e pipeline de dados
 
-![Arquitetura Projeto](https://github.com/RaphaelAmorimSantana/ProjetoConcessionaria/assets/66785163/a16e4574-ccce-41bc-826f-058d77baf883)
+![Arquitetura Projeto](https://github.com/RaphaelAmorimSantana/ProjetoConcessionaria/assets/66785163/677418a8-b0d2-43ef-94ce-b13ee29f7560)
 
 # Desenvolvimento da solução
 
