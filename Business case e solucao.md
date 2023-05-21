@@ -230,3 +230,4 @@ No projeto de Business Intelligence utilizei o Trello para gerenciar as tarefas,
 https://angelosalton.com.br/data-lake-simples-aws.html
 https://medium.com/@aliatakan/creating-a-data-lake-by-using-aws-s3-glue-and-athena-86e43738d8f2
 https://arrudaconsulting.com.br/treinamento-pentaho-aws/
+https://aws.amazon.com/blogs/big-data/enrich-datasets-for-descriptive-analytics-with-aws-glue-databrew/
