@@ -225,7 +225,7 @@ No projeto de Business Intelligence utilizei o Trello para gerenciar as tarefas,
  
 <p align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiYzI0MTUxOGQtY2E2OS00NjU3LTkxNDUtOGEzOTE3YmEyNzg1IiwidCI6IjNmMWEwN2Q1LWViY2ItNGM4ZC04NWM4LTZmNWFmZTMwMjc2ZCJ9" style="font-size:20px;">Clique aqui para acessar o dashboard</a></p>
 
-#Fontes de inspiração para desenvovilmento do projeto
+#Fontes de inspiração para desenvolvimento do projeto
 
 https://angelosalton.com.br/data-lake-simples-aws.html
 https://medium.com/@aliatakan/creating-a-data-lake-by-using-aws-s3-glue-and-athena-86e43738d8f2
