@@ -6,7 +6,7 @@
 # Descrição
 
 Desenvolvimento de uma solução em dados ponta a ponta para uma concessionária de veículos.
-Todos os dados e scripts desse projetos foram mascarados e alterados.
+Todos os dados desse projetos foram mascarados e alterados.
 
 
 # Principais objetivos do projeto
