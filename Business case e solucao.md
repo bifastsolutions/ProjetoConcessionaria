@@ -27,14 +27,19 @@ tratar e visualizar esses dados de forma inteligente era um grande problema para
   
   R: Sim, ao ter acesso a dados precisos e atualizados, você será capaz de tomar decisões mais rápidas e eficazes, permitindo uma resposta ágil às necessidades do mercado.
 - Essa solução irá automatizar o processo evitando a intervenção humano para coletar, tratar e visualisar esses dados?
+  
   R: Sim, essa solução foi projetada para automatizar o processo, eliminando a necessidade de intervenção humana na coleta, tratamento e visualização dos dados, garantindo eficiência e precisão.
 - Os meus dados ficaram seguros e disponíveis com qualidade?
+  
   R: Absolutamente, os dados serão protegidos, mantidos com qualidade e disponíveis para análise, proporcionando segurança e confiabilidade na tomada de decisões.
 - Irei economizar em relação a custos com infraestrutura?
+  
   R: Sim, ao automatizar o processo, você poderá economizar significativamente em custos de infraestrutura, reduzindo a dependência de recursos humanos e aumentando a eficiência operacional.
 - Irei conseguir alcançar meus objetivos comerciais?
+  
   R: Definitivamente, a solução visa aprimorar suas estratégias comerciais, oferecendo insights valiosos baseados em dados confiáveis para alcançar e superar seus objetivos de negócio.
 - Essa solução irá me ajudar a melhorar a experiência do meu cliente?
+  
   R: Sim, ao melhorar a precisão das decisões e estratégias, a solução contribuirá para aprimorar a experiência do cliente, atendendo melhor às necessidades do mercado e oferecendo um serviço mais alinhado e eficiente.
 
 
