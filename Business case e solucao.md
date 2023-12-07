@@ -24,6 +24,7 @@ tratar e visualizar esses dados de forma inteligente era um grande problema para
 ## Benefícios(valor) esperado pelo cliente
 
 - Serei capaz de tomar decisões mais rápidas e em tempo hábil?
+  
   R: Sim, ao ter acesso a dados precisos e atualizados, você será capaz de tomar decisões mais rápidas e eficazes, permitindo uma resposta ágil às necessidades do mercado.
 - Essa solução irá automatizar o processo evitando a intervenção humano para coletar, tratar e visualisar esses dados?
   R: Sim, essa solução foi projetada para automatizar o processo, eliminando a necessidade de intervenção humana na coleta, tratamento e visualização dos dados, garantindo eficiência e precisão.
