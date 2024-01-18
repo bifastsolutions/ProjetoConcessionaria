@@ -18,3 +18,16 @@ Todos os dados desse projetos foram mascarados e alterados.
 - Entrega de valor
 - Agilidade na tomada de decisão
 - Dados de qualidade
+
+# Tecnologias utilizadas
+
+- Python
+- Power BI
+- Figma
+- AWS
+  - Glue
+  - S3
+  - Athena
+  - IAM
+- SQL 
+- Trello
